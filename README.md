@@ -2,8 +2,6 @@
 
 ### Peças digitais para FiveM, apresentadas em uma experiência de catálogo 3D.
 
-[Loja oficial](https://lojavulpix.discloud.app/loja/) · [Portfólio](https://lojavulpix.discloud.app/portfolio) · [Discord](https://discord.gg/WDgsc5V6vJ)
-
 Uma vitrine pública da Vulpix Studio. Este repositório documenta o produto e a experiência visível na loja; o código-fonte e a implementação interna permanecem privados.
 
 ## Capturas reais da loja
@@ -39,9 +37,7 @@ A **Vulpix Studio** apresenta peças digitais de vestuário para FiveM. A loja c
 
 ### Presença
 
-- **Loja:** [lojavulpix.discloud.app/loja](https://lojavulpix.discloud.app/loja/)
-- **Portfólio:** [lojavulpix.discloud.app/portfolio](https://lojavulpix.discloud.app/portfolio)
-- **Comunidade:** [Discord da Vulpix](https://discord.gg/WDgsc5V6vJ)
+Os endereços externos da loja, do portfólio e da comunidade foram omitidos deste README a pedido do proprietário.
 
 ### Escopo público
 
@@ -62,11 +58,9 @@ Veja [visão do produto e jornada pública](docs/product-overview.md) e [limites
 - Select alternate variations where available.
 - Request a custom piece through Discord; the store states that delivery is handled through a ticket.
 
-### Find Vulpix
+### Presence
 
-- **Store:** [lojavulpix.discloud.app/loja](https://lojavulpix.discloud.app/loja/)
-- **Portfolio:** [lojavulpix.discloud.app/portfolio](https://lojavulpix.discloud.app/portfolio)
-- **Community:** [Vulpix on Discord](https://discord.gg/WDgsc5V6vJ)
+External addresses for the store, portfolio, and community are omitted from this README at the owner's request.
 
 ### Public scope
 
