@@ -7,7 +7,8 @@ Este repositório é uma vitrine pública da Vulpix Studio. Ele documenta a expe
 ### Critério de documentação
 
 - Descrever somente funções e informações observadas nas páginas públicas.
-- Usar capturas reais da loja e do portfólio, identificadas como registros de 23 nov. 2026.
+- Quando capturas forem publicadas, usar imagens reais da loja e do portfólio, identificadas com a data em que foram feitas.
+- Evitar exibir dados privados ou identificáveis de clientes.
 - Não inventar resultados, métricas, tecnologias, integrações ou decisões internas.
 - Manter o código-fonte e os detalhes operacionais fora deste repositório.
 
@@ -23,7 +24,7 @@ Este repositório é uma vitrine pública da Vulpix Studio. Ele documenta a expe
 
 A página pública carregou módulos do Three.js, OrbitControls, OBJLoader e GLTFLoader para a visualização no navegador. Isso confirma apenas recursos observados na página; não descreve o backend, os serviços privados nem a arquitetura completa.
 
-Este repositório não concede licença para reutilizar a marca, os modelos, as texturas, as capturas ou outros materiais da Vulpix Studio. Consulte os titulares dos direitos antes de qualquer uso.
+Este repositório não concede licença para reutilizar a marca, os modelos, as texturas ou outros materiais da Vulpix Studio. Consulte os titulares dos direitos antes de qualquer uso.
 
 ## 🇺🇸 English
 
@@ -32,7 +33,8 @@ This repository is a public Vulpix Studio showcase. It documents the experience 
 ### Documentation policy
 
 - Describe only features and information observed on public pages.
-- Use real storefront and portfolio screenshots, labeled as captures from 23 Nov 2026.
+- When screenshots are published, use real storefront and portfolio captures, labeled with their capture date.
+- Avoid displaying private or identifiable customer information.
 - Do not invent outcomes, metrics, technologies, integrations, or internal decisions.
 - Keep source code and operational details outside this repository.
 
@@ -48,4 +50,4 @@ This repository is a public Vulpix Studio showcase. It documents the experience 
 
 The public page loaded Three.js modules, OrbitControls, OBJLoader, and GLTFLoader for browser-based viewing. This confirms only the assets observed on the page; it does not document the backend, private services, or full architecture.
 
-This repository grants no license to reuse the Vulpix Studio brand, models, textures, screenshots, or other materials. Contact the rights holders before reuse.
+This repository grants no license to reuse the Vulpix Studio brand, models, textures, or other materials. Contact the rights holders before reuse.
